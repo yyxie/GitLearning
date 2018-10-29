@@ -7,5 +7,4 @@ first
 second
 
 third
-点点滴滴
 
