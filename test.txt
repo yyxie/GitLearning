@@ -20,3 +20,5 @@ test merge
 dev code
 
 branch1 code
+
+branch2 code
