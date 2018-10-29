@@ -24,3 +24,5 @@ branch1 code
 master code
 
 branch3 code
+
+branch2 code
