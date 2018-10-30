@@ -34,3 +34,5 @@ branch2 code
 rebase -1
 
 master-1
+
+master code
