@@ -31,4 +31,6 @@ branch2 code
 
 4
 
+rebase -1
+
 master-1
